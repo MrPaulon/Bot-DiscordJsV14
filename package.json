@@ -1,0 +1,22 @@
+{
+  "name": "raidbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrPaulon/RaidBot.git"
+  },
+  "author": "Paulon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrPaulon/RaidBot/issues"
+  },
+  "homepage": "https://github.com/MrPaulon/RaidBot#readme",
+  "dependencies": {
+    "discord.js": "^14.9.0"
+  }
+}
